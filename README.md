@@ -1,2 +1,0 @@
-# blogsaya
-blog saya
